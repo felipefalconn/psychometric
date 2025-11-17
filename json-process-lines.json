@@ -1,0 +1,82 @@
+{
+  "PsychrometricUnits": {
+    "AtmosphericPressure(ATM)": "kPa",
+    "DryBulbTemperature(DBT)": "degC",
+    "RelativeHumidity(REL)": "%",
+    "AbsoluteHumidity(ABS)": "g/kg",
+    "WetBulbTemperature(WBT)": "degC",
+    "DewPointTemperature(DEW)": "degC",
+    "VapourPressure(VAP)": "kPa",
+    "AirVolume(VOL)": "m3/kg",
+    "Enthalpy(ENT)": "kJ/kg",
+    "ATM": 101.3650
+  },
+  "ProcessPoints": [
+    {
+      "Name": "",
+      "DBT": 24.69,
+      "REL": 37.65,
+      "ABS": 7.4145,
+      "WBT": 15.69,
+      "DEW": 9.58,
+      "VAP": 1.19419,
+      "VOL": 0.85347,
+      "ENT": 43.72238
+    },
+    {
+      "Name": "",
+      "DBT": 22.97,
+      "REL": 78.22,
+      "ABS": 13.847,
+      "WBT": 20.30,
+      "DEW": 19.07,
+      "VAP": 2.20765,
+      "VOL": 0.85721,
+      "ENT": 58.33083
+    },
+    {
+      "Name": "",
+      "DBT": 21.97,
+      "REL": 40.61,
+      "ABS": 6.7538,
+      "WBT": 14.07,
+      "DEW": 8.22,
+      "VAP": 1.08891,
+      "VOL": 0.84479,
+      "ENT": 39.26905
+    },
+    {
+      "Name": "",
+      "DBT": 20.40,
+      "REL": 53.10,
+      "ABS": 8.0000,
+      "WBT": 14.63,
+      "DEW": 10.71,
+      "VAP": 1.28729,
+      "VOL": 0.84196,
+      "ENT": 40.83395
+    },
+    {
+      "Name": "",
+      "DBT": 24.24,
+      "REL": 58.96,
+      "ABS": 11.293,
+      "WBT": 18.77,
+      "DEW": 15.91,
+      "VAP": 1.80773,
+      "VOL": 0.85743,
+      "ENT": 53.13862
+    },
+    {
+      "Name": "",
+      "DBT": 24.00,
+      "REL": 50.00,
+      "ABS": 9.4358,
+      "WBT": 17.19,
+      "DEW": 13.17,
+      "VAP": 1.51487,
+      "VOL": 0.85423,
+      "ENT": 48.16414
+    }
+  ]
+}
