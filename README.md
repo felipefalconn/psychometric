@@ -41,8 +41,6 @@ The project performs:
 - Export of psychrometric process lines from the Andrew Marsh online tool
 - Generation of tables used in the final thermodynamics report
 
-This workflow supports a university-level thermodynamics assignment involving comfort standards such as ASHRAE 55 and NBR 16401.
-
 ---
 
 ## Methodology Summary
